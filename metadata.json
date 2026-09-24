@@ -1,0 +1,6 @@
+{
+  "name": "Hüseyin Tatoğlu - 30 Haftalık Web Uygulamaları Portfolyosu",
+  "description": "Hüseyin Tatoğlu kişisel web sitesi ve 30 haftalık web uygulamaları arşivi, sarı lacivert temalı modern arayüz ve canlı saat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
